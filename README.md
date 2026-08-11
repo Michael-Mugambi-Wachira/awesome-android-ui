@@ -4,14 +4,14 @@ List of Android UI/UX Libraries
 
 A curated list of awesome Android UI/UX libraries.
 
-## Maintainers
+# Maintainers
 <p>
   <a href="https://github.com/wasabeef">
     <img src="https://avatars1.githubusercontent.com/u/1833474?s=48" />
   </a>
 </p>
 
-## Index
+# Index
 * [Jetpack Compose](#Jetpack-Compose)
 * [Layout](#Layout)
 * [Button](#Button)
